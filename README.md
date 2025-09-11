@@ -28,10 +28,10 @@
 
 ### 📌 Featured Projects
 - 🛒 [E-Commerce App](https://github.com/adham12121212/electronices_app)  
-- 🍴 [Calling_App_](https://github.com/adham12121212/calling_app__zegocloud)  
-- 💼 [Portfolio Website](https://github.com/adham12121212/portfolio)
-- 💼 [Noteapp-FIREBASE](https://github.com/adham12121212/noteapp-FIREBASE)
-- 💼 [Todo_App](https://github.com/adham12121212/todo_app)
+- 📞 [Calling App (ZegoCloud)](https://github.com/adham12121212/calling_app__zegocloud)  
+- 🌐 [Portfolio Website](https://github.com/adham12121212/portfolio)  
+- 📝 [Note App (Firebase)](https://github.com/adham12121212/noteapp-FIREBASE)  
+- ✅ [Todo App](https://github.com/adham12121212/todo_app)
 ---
 
 ### 📊 GitHub Stats
