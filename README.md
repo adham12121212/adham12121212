@@ -43,7 +43,7 @@
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="(https://www.linkedin.com/in/adham-bassiouny-95637322a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/adham-bassiouny-95637322a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:adham@example.com">
