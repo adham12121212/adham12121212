@@ -27,7 +27,7 @@
 ---
 
 ### 📌 Featured Projects
-- 🛒 [E-Commerce App](https://github.com/adham12121212/ecommerce-app)  
+- 🛒 [E-Commerce App](https://github.com/adham12121212/electronices_app)  
 - 🍴 [Cook Snap (Calorie App)](https://github.com/adham12121212/cook-snap)  
 - 💼 [Portfolio Website](https://github.com/adham12121212/portfolio)
 
