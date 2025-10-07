@@ -35,7 +35,7 @@
 - 🌐 [Portfolio Website](https://github.com/adham12121212/portfolio)  
 - 📝 [Note App (Firebase)](https://github.com/adham12121212/noteapp-FIREBASE)  
 - ✅ [Todo App](https://github.com/adham12121212/todo_app)
-- 🛒 [E-Commerce App](https://github.com/adham12121212/shoppng_appV2)
+- ☪️ [Islam App](https://github.com/adham12121212/islam)
 ---
 
 ### 📊 GitHub Stats
