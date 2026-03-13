@@ -1,4 +1,3 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 <h1 align="center">Hi 👋, I'm Adham Bassiouny</h1>
 <h3 align="center">Flutter Developer | Building Cross-Platform Mobile Apps</h3>
 
