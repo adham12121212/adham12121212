@@ -1,80 +1,114 @@
-<h1 align="center">Hi 👋, I'm Adham</h1>
-<h3 align="center">A Passionate Flutter Developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Adham Bassiouny</h1>
+<h3 align="center">Flutter Developer | Building Cross-Platform Mobile Apps</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;Mobile+App+Enthusiast;Clean+Code+Advocate;REST+API+Integration" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adham12121212&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/adham12121212?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=adham12121212&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/adham12121212?label=Followers&style=social" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Working on **E-commerce** & **Portfolio Apps**
-- 🌱 Currently learning **Advanced Flutter Architecture (Bloc, Cubit)** and **Clean Code**
-- 💬 Ask me about **Flutter, Dart, REST APIs, Firebase**
-- ⚡ Fun fact: *I turn ☕ into code*
+# 👨‍💻 About Me
+
+💙 Passionate **Flutter Developer from Egypt** focused on building scalable and user-friendly mobile apps.
+
+- 📱 Building **Cross-Platform Mobile Applications using Flutter**
+- 🧠 Experienced with **Clean Architecture, Bloc & Cubit**
+- 🔗 Skilled in **REST API integration**
+- 🔥 Focused on **performance, clean code, and UI/UX**
+- 🚀 Currently improving **Advanced Flutter Architecture**
+
+💬 Ask me about  
+**Flutter • Dart • REST APIs • Firebase • State Management**
+
+⚡ Fun fact  
+`I turn coffee ☕ into scalable Flutter apps`
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hive-FF7F00?style=for-the-badge&logo=hive&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-4A90E2?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+# 🛠 Tech Stack
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🔗 Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-4A90E2?style=for-the-badge&logo=postman&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF7F00?style=for-the-badge&logo=hive&logoColor=white)
+
+### 🧠 Architecture & State Management
+- Bloc
+- Cubit
+- Clean Architecture
+- MVVM
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🧰 Tools I Use
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 📌 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🛒 [E-Commerce App](https://github.com/adham12121212/electronices_app) | Full Flutter E-commerce app using REST API |
-| 📞 [Calling App (ZegoCloud)](https://github.com/adham12121212/calling_app__zegocloud) | Real-time calling app built with ZegoCloud SDK |
-| 🌐 [Portfolio Website](https://github.com/adham12121212/portfolio) | My personal portfolio site |
-| 📝 [Note App (Firebase)](https://github.com/adham12121212/noteapp-FIREBASE) | Firebase-powered notes app |
-| ✅ [Todo App](https://github.com/adham12121212/todo_app) | Simple Todo app using Cubit |
-| ☪️ [Islam App](https://github.com/adham12121212/islam) | Islamic info and resources app |
+|-------|-------------|
+| 🛒 **[E-Commerce App](https://github.com/adham12121212/electronices_app)** | Full Flutter E-commerce application with REST API integration |
+| 📞 **[Calling App](https://github.com/adham12121212/calling_app__zegocloud)** | Real-time voice/video calling using ZegoCloud SDK |
+| 🌐 **[Portfolio Website](https://github.com/adham12121212/portfolio)** | Personal portfolio showcasing my projects |
+| 📝 **[Notes App](https://github.com/adham12121212/noteapp-FIREBASE)** | Notes application using Firebase |
+| ✅ **[Todo App](https://github.com/adham12121212/todo_app)** | Simple task manager built with Cubit |
+| ☪️ **[Islam App](https://github.com/adham12121212/islam)** | Islamic information mobile application |
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adham12121212&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham12121212&layout=compact&theme=radical" alt="languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=adham12121212&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham12121212&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adham12121212&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adham12121212&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adham12121212&theme=algolia&margin-w=10"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/adham-bassiouny-95637322a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:adhambassiouny1212@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://friendly-tower-470411-t3.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/adham-bassiouny-95637322a/">
+<img src="https://img.shields.io/badge/LinkedIn-Adham%20Bassiouny-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:adhambassiouny1212@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://friendly-tower-470411-t3.web.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel"/>
+</a>
+
 </p>
+
+---
+
+⭐ **If you like my work, consider giving my repositories a star!**
