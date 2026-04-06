@@ -56,7 +56,7 @@
 
 # 🚀 Featured Projects
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/adham12121212/doctor_booking_app">
   <img src="https://img.shields.io/badge/🩺 Doctor Booking App-0A192F?style=for-the-badge"/>
