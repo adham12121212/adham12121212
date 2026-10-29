@@ -20,7 +20,7 @@
 
 ## ✦ About
 
-<img align="right" width="260" src="assets/profile.jpg" alt="Adham Bassiouny" />
+<img align="right" width="260" src="https://github.com/user-attachments/assets/e4f91224-a3c8-4ee1-bb0c-c73d179b6f6a" alt="Adham Bassiouny" />
 
 I'm a **Flutter developer from Egypt 🇪🇬** who builds fast, reliable, and good-looking mobile apps for Android and iOS from a single codebase.
 
