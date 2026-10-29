@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/adham-bassiouny-95637322a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:adhambassiouny1212@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://friendly-tower-470411-t3.web.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=firebase&logoColor=FFCA28" /></a>
+  <a href="https://adham12121212.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=githubpages&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=adham12121212&label=views&color=02569B&style=flat-square" />
 </p>
 
@@ -20,7 +20,7 @@
 
 ## ✦ About
 
-<img align="right" width="260" src="https://github.com/user-attachments/assets/e4f91224-a3c8-4ee1-bb0c-c73d179b6f6a" alt="Adham Bassiouny" />
+<img align="right" width="260" alt="Cute ducks swimming" src="https://github.com/user-attachments/assets/c2e5632d-734e-48d8-ab29-81793459357b" />
 
 I'm a **Flutter developer from Egypt 🇪🇬** who builds fast, reliable, and good-looking mobile apps for Android and iOS from a single codebase.
 
@@ -100,8 +100,8 @@ I care about apps that are easy to use and code that's easy to maintain — so I
 ## ✦ GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adham12121212&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&icon_color=02569B&text_color=8b949e&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham12121212&layout=compact&theme=transparent&hide_border=true&title_color=00C2FF&text_color=8b949e" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adham12121212&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adham12121212&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@ I care about apps that are easy to use and code that's easy to maintain — so I
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adham12121212&bg_color=00000000&color=8b949e&line=00C2FF&point=02569B&area=true&area_color=00C2FF&hide_border=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adham12121212&theme=github_dark" />
 </p>
 
 <!-- Footer -->
